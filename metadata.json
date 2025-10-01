@@ -1,0 +1,5 @@
+{
+  "name": "Email Warming Content Generator",
+  "description": "An application to generate daily unique email headers and HTML content for email domain warming strategies. It uses AI to create realistic, inbox-friendly messages to help improve sender reputation.",
+  "requestFramePermissions": []
+}
